@@ -1,0 +1,1171 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<!--Created by Ukelele version 3.2.7.195 on 2018-10-07 at 18:20 (CEST)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-10-08 at 19:47 (CEST)-->
+<keyboard group="126" id="-598" name="IPA" maxout="1">
+	<layouts>
+		<layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
+		<layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
+		<layout first="21" last="23" mapSet="JIS" modifiers="Modifiers"/>
+		<layout first="30" last="30" mapSet="JIS" modifiers="Modifiers"/>
+		<layout first="33" last="33" mapSet="JIS" modifiers="Modifiers"/>
+		<layout first="36" last="36" mapSet="JIS" modifiers="Modifiers"/>
+		<layout first="194" last="194" mapSet="JIS" modifiers="Modifiers"/>
+		<layout first="197" last="197" mapSet="JIS" modifiers="Modifiers"/>
+		<layout first="200" last="201" mapSet="JIS" modifiers="Modifiers"/>
+		<layout first="206" last="207" mapSet="JIS" modifiers="Modifiers"/>
+	</layouts>
+	<modifierMap id="Modifiers" defaultIndex="6">
+		<keyMapSelect mapIndex="0">
+			<modifier keys=""/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="1">
+			<modifier keys="anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="2">
+			<modifier keys="anyOption"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="3">
+			<modifier keys="anyShift caps? anyOption"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="4">
+			<modifier keys="command"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="5">
+			<modifier keys="caps"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="6">
+			<modifier keys="anyControl"/>
+		</keyMapSelect>
+	</modifierMap>
+	<keyMapSet id="ANSI">
+		<keyMap index="0">
+			<key code="0" output="a"/>
+			<key code="1" output="s"/>
+			<key code="2" output="d"/>
+			<key code="3" output="f"/>
+			<key code="4" output="h"/>
+			<key code="5" output="g"/>
+			<key code="6" output="z"/>
+			<key code="7" output="x"/>
+			<key code="8" output="c"/>
+			<key code="9" output="v"/>
+			<key code="10" output="&#x0027;"/>
+			<key code="11" output="b"/>
+			<key code="12" output="q"/>
+			<key code="13" output="w"/>
+			<key code="14" output="e"/>
+			<key code="15" output="r"/>
+			<key code="16" output="y"/>
+			<key code="17" output="t"/>
+			<key code="18" action="1 1"/>
+			<key code="19" action="2 1"/>
+			<key code="20" action="3 1"/>
+			<key code="21" action="4 1"/>
+			<key code="22" action="6 1"/>
+			<key code="23" action="5 1"/>
+			<key code="24" output=""/>
+			<key code="25" action="9 1"/>
+			<key code="26" action="7 1"/>
+			<key code="27" output="+"/>
+			<key code="28" action="8 1"/>
+			<key code="29" action="0 1"/>
+			<key code="30" action="ˆ"/>
+			<key code="31" output="o"/>
+			<key code="32" output="u"/>
+			<key code="33" output="å"/>
+			<key code="34" output="i"/>
+			<key code="35" output="p"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="l"/>
+			<key code="38" output="j"/>
+			<key code="39" output="æ"/>
+			<key code="40" output="k"/>
+			<key code="41" output="ø"/>
+			<key code="42" action="@"/>
+			<key code="43" output=","/>
+			<key code="44" output="-"/>
+			<key code="45" output="n"/>
+			<key code="46" output="m"/>
+			<key code="47" output="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="&#x003C;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="64" output="&#x0010;"/>
+			<key code="65" output=""/>
+			<key code="66" output="&#x001D;"/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="70" output="&#x001C;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="72" output="&#x001F;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x0003;"/>
+			<key code="77" output="&#x001E;"/>
+			<key code="78" output="-"/>
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="1">
+			<key code="0" output=""/>
+			<key code="1" output=""/>
+			<key code="2" output=""/>
+			<key code="3" action="̂"/>
+			<key code="4" action="́"/>
+			<key code="5" output=""/>
+			<key code="6" output=""/>
+			<key code="7" output=""/>
+			<key code="8" output=""/>
+			<key code="9" output=""/>
+			<key code="10" action="ˈ"/>
+			<key code="11" action="̏"/>
+			<key code="12" output=""/>
+			<key code="13" output=""/>
+			<key code="14" output="̆"/>
+			<key code="15" action="̌"/>
+			<key code="16" output=""/>
+			<key code="17" action="̋"/>
+			<key code="18" output="˥"/>
+			<key code="19" output="˦"/>
+			<key code="20" output="˧"/>
+			<key code="21" output="˨"/>
+			<key code="22" output=""/>
+			<key code="23" output="˩"/>
+			<key code="24" output=""/>
+			<key code="25" output="͜"/>
+			<key code="26" output="/"/>
+			<key code="27" output="?"/>
+			<key code="28" output="͡"/>
+			<key code="29" output="="/>
+			<key code="30" output="↑"/>
+			<key code="31" output=""/>
+			<key code="32" output=""/>
+			<key code="33" output="↗"/>
+			<key code="34" action="i 1"/>
+			<key code="35" output=""/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="̀"/>
+			<key code="38" output=""/>
+			<key code="39" output="↘"/>
+			<key code="40" output=""/>
+			<key code="41" output=""/>
+			<key code="42" output="↓"/>
+			<key code="43" output="ˑ"/>
+			<key code="44" output="‿"/>
+			<key code="45" output=""/>
+			<key code="46" output="̄"/>
+			<key code="47" output="ː"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="&#x003E;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="64" output="&#x0010;"/>
+			<key code="65" output=""/>
+			<key code="66" output="&#x001D;"/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="70" output="&#x001C;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="72" output="&#x001F;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x0003;"/>
+			<key code="77" output="&#x001E;"/>
+			<key code="78" output="-"/>
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="2">
+			<key code="0" action="a"/>
+			<key code="1" action="s"/>
+			<key code="2" action="d"/>
+			<key code="3" output="ɸ"/>
+			<key code="4" action="h"/>
+			<key code="5" action="g"/>
+			<key code="6" action="z"/>
+			<key code="7" output="χ"/>
+			<key code="8" action="c"/>
+			<key code="9" action="v"/>
+			<key code="10" output="ʼ"/>
+			<key code="11" action="b"/>
+			<key code="12" output="q"/>
+			<key code="13" action="w"/>
+			<key code="14" action="e"/>
+			<key code="15" action="r"/>
+			<key code="16" action="y"/>
+			<key code="17" action="t"/>
+			<key code="18" output=""/>
+			<key code="19" output=""/>
+			<key code="20" output=""/>
+			<key code="21" output=""/>
+			<key code="22" output=""/>
+			<key code="23" output=""/>
+			<key code="24" output=""/>
+			<key code="25" output="]"/>
+			<key code="26" output=""/>
+			<key code="27" action="+"/>
+			<key code="28" output="["/>
+			<key code="29" output=""/>
+			<key code="30" output=""/>
+			<key code="31" action="o"/>
+			<key code="32" action="u"/>
+			<key code="33" output=""/>
+			<key code="34" action="i"/>
+			<key code="35" output="p"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="l"/>
+			<key code="38" action="j"/>
+			<key code="39" output=""/>
+			<key code="40" action="k"/>
+			<key code="41" action="ø"/>
+			<key code="42" output=""/>
+			<key code="43" output=""/>
+			<key code="44" output="–"/>
+			<key code="45" action="n"/>
+			<key code="46" output="ɱ"/>
+			<key code="47" output=""/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=""/>
+			<key code="50" output=""/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="64" output="&#x0010;"/>
+			<key code="65" output=""/>
+			<key code="66" output="&#x001D;"/>
+			<key code="67" output=""/>
+			<key code="69" output=""/>
+			<key code="70" output="&#x001C;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="72" output="&#x001F;"/>
+			<key code="75" output=""/>
+			<key code="76" output="&#x0003;"/>
+			<key code="77" output="&#x001E;"/>
+			<key code="78" output=""/>
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
+			<key code="81" output=""/>
+			<key code="82" output=""/>
+			<key code="83" output=""/>
+			<key code="84" output=""/>
+			<key code="85" output=""/>
+			<key code="86" output=""/>
+			<key code="87" output=""/>
+			<key code="88" output=""/>
+			<key code="89" output=""/>
+			<key code="91" output=""/>
+			<key code="92" output=""/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="3">
+			<key code="0" output="̺"/>
+			<key code="1" output=""/>
+			<key code="2" output="̪"/>
+			<key code="3" output="̹"/>
+			<key code="4" output="ʰ"/>
+			<key code="5" output="ˠ"/>
+			<key code="6" output="̚"/>
+			<key code="7" output="̽"/>
+			<key code="8" output="̜"/>
+			<key code="9" output="̬"/>
+			<key code="10" output="̩"/>
+			<key code="11" output="̃"/>
+			<key code="12" output="̙"/>
+			<key code="13" output="ʷ"/>
+			<key code="14" output="̴"/>
+			<key code="15" output="̝"/>
+			<key code="16" output=""/>
+			<key code="17" output="̤"/>
+			<key code="18" output=""/>
+			<key code="19" output="̈"/>
+			<key code="20" output=""/>
+			<key code="21" output=""/>
+			<key code="22" output=""/>
+			<key code="23" output=""/>
+			<key code="24" output="˞"/>
+			<key code="25" output="}"/>
+			<key code="26" output=""/>
+			<key code="27" output="̟"/>
+			<key code="28" output="{"/>
+			<key code="29" output="̥"/>
+			<key code="30" output="̯"/>
+			<key code="31" output="̞"/>
+			<key code="32" output=""/>
+			<key code="33" output=""/>
+			<key code="34" output=""/>
+			<key code="35" output="ˤ"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="ˡ"/>
+			<key code="38" output="ʲ"/>
+			<key code="39" output="⟩"/>
+			<key code="40" output="̰"/>
+			<key code="41" output="⟨"/>
+			<key code="42" output="̼"/>
+			<key code="43" output=""/>
+			<key code="44" output="̠"/>
+			<key code="45" output="ⁿ"/>
+			<key code="46" output="̻"/>
+			<key code="47" output=""/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=""/>
+			<key code="50" output="̘"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="64" output="&#x0010;"/>
+			<key code="65" output=""/>
+			<key code="66" output="&#x001D;"/>
+			<key code="67" output=""/>
+			<key code="69" output=""/>
+			<key code="70" output="&#x001C;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="72" output="&#x001F;"/>
+			<key code="75" output=""/>
+			<key code="76" output="&#x0003;"/>
+			<key code="77" output="&#x001E;"/>
+			<key code="78" output=""/>
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
+			<key code="81" output=""/>
+			<key code="82" output=""/>
+			<key code="83" output=""/>
+			<key code="84" output=""/>
+			<key code="85" output=""/>
+			<key code="86" output=""/>
+			<key code="87" output=""/>
+			<key code="88" output=""/>
+			<key code="89" output=""/>
+			<key code="91" output=""/>
+			<key code="92" output=""/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="4">
+			<key code="0" output="a"/>
+			<key code="1" output="s"/>
+			<key code="2" output="d"/>
+			<key code="3" output="f"/>
+			<key code="4" output="h"/>
+			<key code="5" output="g"/>
+			<key code="6" output="z"/>
+			<key code="7" output="x"/>
+			<key code="8" output="c"/>
+			<key code="9" output="v"/>
+			<key code="10" output="&#x0027;"/>
+			<key code="11" output="b"/>
+			<key code="12" output="q"/>
+			<key code="13" output="w"/>
+			<key code="14" output="e"/>
+			<key code="15" output="r"/>
+			<key code="16" output="y"/>
+			<key code="17" output="t"/>
+			<key code="18" action="1"/>
+			<key code="19" action="2"/>
+			<key code="20" action="3"/>
+			<key code="21" action="4"/>
+			<key code="22" action="6"/>
+			<key code="23" action="5"/>
+			<key code="24" output=""/>
+			<key code="25" action="9"/>
+			<key code="26" action="7"/>
+			<key code="27" output="+"/>
+			<key code="28" action="8"/>
+			<key code="29" action="0"/>
+			<key code="30" output=""/>
+			<key code="31" output="o"/>
+			<key code="32" output="u"/>
+			<key code="33" output="å"/>
+			<key code="34" output="i"/>
+			<key code="35" output="p"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="l"/>
+			<key code="38" output="j"/>
+			<key code="39" output="æ"/>
+			<key code="40" output="k"/>
+			<key code="41" output="ø"/>
+			<key code="42" output=""/>
+			<key code="43" output=","/>
+			<key code="44" output="-"/>
+			<key code="45" output="n"/>
+			<key code="46" output="m"/>
+			<key code="47" output="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="&#x003C;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="64" output="&#x0010;"/>
+			<key code="65" output=""/>
+			<key code="66" output="&#x001D;"/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="70" output="&#x001C;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="72" output="&#x001F;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x0003;"/>
+			<key code="77" output="&#x001E;"/>
+			<key code="78" output="-"/>
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="5">
+			<key code="0" output="A"/>
+			<key code="1" output="S"/>
+			<key code="2" output="D"/>
+			<key code="3" output="F"/>
+			<key code="4" output="H"/>
+			<key code="5" output="G"/>
+			<key code="6" output="Z"/>
+			<key code="7" output="X"/>
+			<key code="8" output="C"/>
+			<key code="9" output="V"/>
+			<key code="10" output="&#x0027;"/>
+			<key code="11" output="B"/>
+			<key code="12" output="Q"/>
+			<key code="13" output="W"/>
+			<key code="14" output="E"/>
+			<key code="15" output="R"/>
+			<key code="16" output="Y"/>
+			<key code="17" output="T"/>
+			<key code="18" output="1"/>
+			<key code="19" output="2"/>
+			<key code="20" output="3"/>
+			<key code="21" output="4"/>
+			<key code="22" output="6"/>
+			<key code="23" output="5"/>
+			<key code="24" output=""/>
+			<key code="25" output="9"/>
+			<key code="26" output="7"/>
+			<key code="27" output="+"/>
+			<key code="28" output="8"/>
+			<key code="29" output="0"/>
+			<key code="30" output=""/>
+			<key code="31" output="O"/>
+			<key code="32" output="U"/>
+			<key code="33" output="Å"/>
+			<key code="34" output="I"/>
+			<key code="35" output="P"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output="L"/>
+			<key code="38" output="J"/>
+			<key code="39" output="Æ"/>
+			<key code="40" output="K"/>
+			<key code="41" output="Ø"/>
+			<key code="42" output=""/>
+			<key code="43" output=","/>
+			<key code="44" output="-"/>
+			<key code="45" output="N"/>
+			<key code="46" output="M"/>
+			<key code="47" output="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=" "/>
+			<key code="50" output="&#x003C;"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="64" output="&#x0010;"/>
+			<key code="65" output=""/>
+			<key code="66" output="&#x001D;"/>
+			<key code="67" output="*"/>
+			<key code="69" output="+"/>
+			<key code="70" output="&#x001C;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="72" output="&#x001F;"/>
+			<key code="75" output="/"/>
+			<key code="76" output="&#x0003;"/>
+			<key code="77" output="&#x001E;"/>
+			<key code="78" output="-"/>
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
+			<key code="81" output="="/>
+			<key code="82" output="0"/>
+			<key code="83" output="1"/>
+			<key code="84" output="2"/>
+			<key code="85" output="3"/>
+			<key code="86" output="4"/>
+			<key code="87" output="5"/>
+			<key code="88" output="6"/>
+			<key code="89" output="7"/>
+			<key code="91" output="8"/>
+			<key code="92" output="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="6">
+			<key code="0" output=""/>
+			<key code="1" output=""/>
+			<key code="2" output=""/>
+			<key code="3" output=""/>
+			<key code="4" output=""/>
+			<key code="5" output=""/>
+			<key code="6" output=""/>
+			<key code="7" output=""/>
+			<key code="8" output=""/>
+			<key code="9" output=""/>
+			<key code="10" output=""/>
+			<key code="11" output=""/>
+			<key code="12" output=""/>
+			<key code="13" output=""/>
+			<key code="14" output=""/>
+			<key code="15" output=""/>
+			<key code="16" output=""/>
+			<key code="17" output=""/>
+			<key code="18" output=""/>
+			<key code="19" output=""/>
+			<key code="20" output=""/>
+			<key code="21" output=""/>
+			<key code="22" output=""/>
+			<key code="23" output=""/>
+			<key code="24" output=""/>
+			<key code="25" output=""/>
+			<key code="26" output=""/>
+			<key code="27" output=""/>
+			<key code="28" output=""/>
+			<key code="29" output=""/>
+			<key code="30" output=""/>
+			<key code="31" output=""/>
+			<key code="32" output=""/>
+			<key code="33" output=""/>
+			<key code="34" output=""/>
+			<key code="35" output=""/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" output=""/>
+			<key code="38" output=""/>
+			<key code="39" output=""/>
+			<key code="40" output=""/>
+			<key code="41" output=""/>
+			<key code="42" output=""/>
+			<key code="43" output=""/>
+			<key code="44" output=""/>
+			<key code="45" output=""/>
+			<key code="46" output=""/>
+			<key code="47" output=""/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" output=""/>
+			<key code="50" output=""/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="64" output="&#x0010;"/>
+			<key code="65" output=""/>
+			<key code="66" output="&#x001D;"/>
+			<key code="67" output=""/>
+			<key code="69" output=""/>
+			<key code="70" output="&#x001C;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="72" output="&#x001F;"/>
+			<key code="75" output=""/>
+			<key code="76" output="&#x0003;"/>
+			<key code="77" output="&#x001E;"/>
+			<key code="78" output=""/>
+			<key code="79" output="&#x0010;"/>
+			<key code="80" output="&#x0010;"/>
+			<key code="81" output=""/>
+			<key code="82" output=""/>
+			<key code="83" output=""/>
+			<key code="84" output=""/>
+			<key code="85" output=""/>
+			<key code="86" output=""/>
+			<key code="87" output=""/>
+			<key code="88" output=""/>
+			<key code="89" output=""/>
+			<key code="91" output=""/>
+			<key code="92" output=""/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+	</keyMapSet>
+	<keyMapSet id="JIS">
+		<keyMap index="0" baseMapSet="ANSI" baseIndex="0">
+			<key code="512" output=""/>
+		</keyMap>
+		<keyMap index="1" baseMapSet="ANSI" baseIndex="1">
+			<key code="512" output=""/>
+		</keyMap>
+		<keyMap index="2" baseMapSet="ANSI" baseIndex="2">
+			<key code="512" output=""/>
+		</keyMap>
+		<keyMap index="3" baseMapSet="ANSI" baseIndex="3">
+			<key code="512" output=""/>
+		</keyMap>
+		<keyMap index="4" baseMapSet="ANSI" baseIndex="4">
+			<key code="512" output=""/>
+		</keyMap>
+		<keyMap index="5" baseMapSet="ANSI" baseIndex="5">
+			<key code="512" output=""/>
+		</keyMap>
+		<keyMap index="6" baseMapSet="ANSI" baseIndex="6">
+			<key code="512" output=""/>
+		</keyMap>
+	</keyMapSet>
+	<actions>
+		<action id="+">
+			<when state="none" next="+"/>
+			<when state="+" next="ʔ"/>
+			<when state="ʔ" next="ʕ"/>
+			<when state="ʕ" next="ʢ"/>
+			<when state="ʢ" next="+"/>
+		</action>
+		<action id="0">
+			<when state="none" output="0"/>
+		</action>
+		<action id="0 1">
+			<when state="none" output="0"/>
+			<when state="@" output="₀"/>
+			<when state="ˆ" output="⁰"/>
+		</action>
+		<action id="1">
+			<when state="none" output="1"/>
+		</action>
+		<action id="1 1">
+			<when state="none" output="1"/>
+			<when state="@" output="₁"/>
+			<when state="ˆ" output="¹"/>
+		</action>
+		<action id="2">
+			<when state="none" output="2"/>
+		</action>
+		<action id="2 1">
+			<when state="none" output="2"/>
+			<when state="@" output="₂"/>
+			<when state="ˆ" output="²"/>
+		</action>
+		<action id="3">
+			<when state="none" output="3"/>
+		</action>
+		<action id="3 1">
+			<when state="none" output="3"/>
+			<when state="@" output="₃"/>
+			<when state="ˆ" output="³"/>
+		</action>
+		<action id="4">
+			<when state="none" output="4"/>
+		</action>
+		<action id="4 1">
+			<when state="none" output="4"/>
+			<when state="@" output="₄"/>
+			<when state="ˆ" output="⁴"/>
+		</action>
+		<action id="5">
+			<when state="none" output="5"/>
+		</action>
+		<action id="5 1">
+			<when state="none" output="5"/>
+			<when state="@" output="₅"/>
+			<when state="ˆ" output="⁵"/>
+		</action>
+		<action id="6">
+			<when state="none" output="6"/>
+		</action>
+		<action id="6 1">
+			<when state="none" output="6"/>
+			<when state="@" output="₆"/>
+			<when state="ˆ" output="⁶"/>
+		</action>
+		<action id="7">
+			<when state="none" output="7"/>
+		</action>
+		<action id="7 1">
+			<when state="none" output="7"/>
+			<when state="@" output="₇"/>
+			<when state="ˆ" output="⁷"/>
+		</action>
+		<action id="8">
+			<when state="none" output="8"/>
+		</action>
+		<action id="8 1">
+			<when state="none" output="8"/>
+			<when state="@" output="₈"/>
+			<when state="ˆ" output="⁸"/>
+		</action>
+		<action id="9">
+			<when state="none" output="9"/>
+		</action>
+		<action id="9 1">
+			<when state="none" output="9"/>
+			<when state="@" output="₉"/>
+			<when state="ˆ" output="⁹"/>
+		</action>
+		<action id="@">
+			<when state="none" next="@"/>
+		</action>
+		<action id="a">
+			<when state="none" next="a"/>
+			<when state="a" next="ɑ"/>
+			<when state="ɐ" next="a"/>
+			<when state="ɑ" next="ɒ"/>
+			<when state="ɒ" next="ɐ"/>
+		</action>
+		<action id="b">
+			<when state="none" next="b"/>
+			<when state="b" next="β"/>
+			<when state="ɓ" next="b"/>
+			<when state="β" next="ɓ"/>
+		</action>
+		<action id="c">
+			<when state="none" next="c"/>
+			<when state="c" next="ç"/>
+			<when state="ç" next="ɕ"/>
+		</action>
+		<action id="d">
+			<when state="none" next="d"/>
+			<when state="d" next="ð"/>
+			<when state="ð" next="ɖ"/>
+			<when state="ɖ" next="d"/>
+		</action>
+		<action id="e">
+			<when state="none" next="e"/>
+			<when state="e" next="ə"/>
+			<when state="ɘ" next="ɛ"/>
+			<when state="ə" next="ɚ"/>
+			<when state="ɚ" next="ɵ"/>
+			<when state="ɛ" next="ɜ"/>
+			<when state="ɜ" next="e"/>
+			<when state="ɵ" next="ɘ"/>
+		</action>
+		<action id="g">
+			<when state="none" next="g"/>
+			<when state="g" next="ɠ"/>
+			<when state="ɠ" next="ɢ"/>
+			<when state="ɢ" next="ʛ"/>
+			<when state="ʛ" next="g"/>
+		</action>
+		<action id="h">
+			<when state="none" next="h"/>
+			<when state="h" next="ɥ"/>
+			<when state="ħ" next="ɧ"/>
+			<when state="ɥ" next="ɦ"/>
+			<when state="ɦ" next="ħ"/>
+			<when state="ɧ" next="h"/>
+		</action>
+		<action id="i">
+			<when state="none" next="i"/>
+			<when state="i" next="ɪ"/>
+			<when state="ɪ" next="i"/>
+		</action>
+		<action id="i 1">
+			<when state="none" next="I"/>
+			<when state="I" next="|"/>
+			<when state="i" next="|"/>
+			<when state="|" next="I"/>
+		</action>
+		<action id="j">
+			<when state="none" next="j"/>
+			<when state="j" next="ɟ"/>
+			<when state="ɟ" next="ʝ"/>
+			<when state="ʝ" next="j"/>
+		</action>
+		<action id="k">
+			<when state="none" next="k"/>
+			<when state="k" next="ʘ"/>
+			<when state="ǀ" next="ǃ"/>
+			<when state="ǂ" next="k"/>
+			<when state="ǃ" next="ǂ"/>
+			<when state="ʘ" next="ǀ"/>
+		</action>
+		<action id="l">
+			<when state="none" next="l"/>
+			<when state="l" next="ɬ"/>
+			<when state="ɬ" next="ɭ"/>
+			<when state="ɭ" next="ɮ"/>
+			<when state="ɮ" next="ʟ"/>
+			<when state="ʟ" next="l"/>
+		</action>
+		<action id="n">
+			<when state="none" next="n"/>
+			<when state="n" next="ŋ"/>
+			<when state="ŋ" next="ɳ"/>
+			<when state="ɲ" next="n"/>
+			<when state="ɳ" next="ɲ"/>
+		</action>
+		<action id="o">
+			<when state="none" next="o"/>
+			<when state="o" next="ɔ"/>
+			<when state="ɔ" next="o"/>
+		</action>
+		<action id="r">
+			<when state="none" next="r"/>
+			<when state="r" next="ɾ"/>
+			<when state="ɹ" next="ɻ"/>
+			<when state="ɻ" next="ʀ"/>
+			<when state="ɽ" next="r"/>
+			<when state="ɾ" next="ʁ"/>
+			<when state="ʀ" next="ɽ"/>
+			<when state="ʁ" next="ɹ"/>
+		</action>
+		<action id="s">
+			<when state="none" next="s"/>
+			<when state="s" next="ʃ"/>
+			<when state="ʃ" next="s"/>
+		</action>
+		<action id="t">
+			<when state="none" next="t"/>
+			<when state="t" next="θ"/>
+			<when state="θ" next="t"/>
+		</action>
+		<action id="u">
+			<when state="none" next="u"/>
+			<when state="u" next="ʉ"/>
+			<when state="ʉ" next="u"/>
+		</action>
+		<action id="v">
+			<when state="none" next="v"/>
+			<when state="v" next="ʋ"/>
+			<when state="ʋ" next="v"/>
+		</action>
+		<action id="w">
+			<when state="none" next="w"/>
+			<when state="w" next="ʍ"/>
+			<when state="ʍ" next="w"/>
+		</action>
+		<action id="y">
+			<when state="none" next="y"/>
+			<when state="y" next="ʏ"/>
+			<when state="ʏ" next="y"/>
+		</action>
+		<action id="z">
+			<when state="none" next="z"/>
+			<when state="z" next="ʒ"/>
+			<when state="ʐ" next="z"/>
+			<when state="ʒ" next="ʐ"/>
+		</action>
+		<action id="ø">
+			<when state="none" next="ø"/>
+			<when state="ø" next="œ"/>
+			<when state="œ" next="ɶ"/>
+			<when state="ɶ" next="ø"/>
+		</action>
+		<action id="ˆ">
+			<when state="none" next="ˆ"/>
+		</action>
+		<action id="ˈ">
+			<when state="none" next="&#x0027;"/>
+			<when state="&#x0027;" next="ˈ"/>
+			<when state="ˈ" next="&#x0027;"/>
+		</action>
+		<action id="̀">
+			<when state="none" output="̀"/>
+			<when state="B" next="̏"/>
+		</action>
+		<action id="́">
+			<when state="none" next="H"/>
+			<when state="́" next="H"/>
+		</action>
+		<action id="̂">
+			<when state="none" output="̂"/>
+			<when state="R" next="̌"/>
+		</action>
+		<action id="̋">
+			<when state="none" output="̋"/>
+			<when state="H" next="́"/>
+		</action>
+		<action id="̌">
+			<when state="none" next="R"/>
+			<when state="̌" next="R"/>
+		</action>
+		<action id="̏">
+			<when state="none" next="B"/>
+			<when state="̏" next="B"/>
+		</action>
+	</actions>
+	<terminators>
+		<when state="&#x0027;" output="ˈ"/>
+		<when state="+" output="ʔ"/>
+		<when state="@" output=""/>
+		<when state="B" output="̏"/>
+		<when state="H" output="́"/>
+		<when state="I" output="|"/>
+		<when state="R" output="̌"/>
+		<when state="a" output="ɑ"/>
+		<when state="b" output="β"/>
+		<when state="c" output="ç"/>
+		<when state="d" output="ð"/>
+		<when state="e" output="ə"/>
+		<when state="g" output="ɠ"/>
+		<when state="h" output="ɥ"/>
+		<when state="i" output="ɪ"/>
+		<when state="j" output="ɟ"/>
+		<when state="k" output="ʘ"/>
+		<when state="l" output="ɬ"/>
+		<when state="n" output="ŋ"/>
+		<when state="o" output="ɔ"/>
+		<when state="r" output="ɾ"/>
+		<when state="s" output="ʃ"/>
+		<when state="t" output="θ"/>
+		<when state="u" output="ʉ"/>
+		<when state="v" output="ʋ"/>
+		<when state="w" output="ʍ"/>
+		<when state="y" output="ʏ"/>
+		<when state="z" output="ʒ"/>
+		<when state="|" output="‖"/>
+		<when state="ç" output="ɕ"/>
+		<when state="ð" output="ɖ"/>
+		<when state="ø" output="œ"/>
+		<when state="ħ" output="ɧ"/>
+		<when state="ŋ" output="ɳ"/>
+		<when state="œ" output="ɶ"/>
+		<when state="ǀ" output="ǃ"/>
+		<when state="ǂ" output="ǁ"/>
+		<when state="ǃ" output="ǂ"/>
+		<when state="ɐ" output="ʌ"/>
+		<when state="ɑ" output="ɒ"/>
+		<when state="ɒ" output="ɐ"/>
+		<when state="ɓ" output="ʙ"/>
+		<when state="ɔ" output="ʊ"/>
+		<when state="ɕ" output="c"/>
+		<when state="ɖ" output="ɗ"/>
+		<when state="ɘ" output="ɛ"/>
+		<when state="ə" output="ɚ"/>
+		<when state="ɚ" output="ɵ"/>
+		<when state="ɛ" output="ɜ"/>
+		<when state="ɜ" output="ɞ"/>
+		<when state="ɟ" output="ʝ"/>
+		<when state="ɠ" output="ɢ"/>
+		<when state="ɢ" output="ʛ"/>
+		<when state="ɥ" output="ɦ"/>
+		<when state="ɦ" output="ħ"/>
+		<when state="ɧ" output="ʜ"/>
+		<when state="ɪ" output="ɨ"/>
+		<when state="ɬ" output="ɭ"/>
+		<when state="ɭ" output="ɮ"/>
+		<when state="ɮ" output="ʟ"/>
+		<when state="ɲ" output="ɴ"/>
+		<when state="ɳ" output="ɲ"/>
+		<when state="ɵ" output="ɘ"/>
+		<when state="ɶ" output="∅"/>
+		<when state="ɹ" output="ɻ"/>
+		<when state="ɻ" output="ʀ"/>
+		<when state="ɽ" output="ɺ"/>
+		<when state="ɾ" output="ʁ"/>
+		<when state="ʀ" output="ɽ"/>
+		<when state="ʁ" output="ɹ"/>
+		<when state="ʃ" output="ʂ"/>
+		<when state="ʉ" output="ɯ"/>
+		<when state="ʋ" output="ⱱ"/>
+		<when state="ʍ" output="ɰ"/>
+		<when state="ʏ" output="ɤ"/>
+		<when state="ʐ" output="ʑ"/>
+		<when state="ʒ" output="ʐ"/>
+		<when state="ʔ" output="ʕ"/>
+		<when state="ʕ" output="ʢ"/>
+		<when state="ʘ" output="ǀ"/>
+		<when state="ʛ" output="ɣ"/>
+		<when state="ʝ" output="ʄ"/>
+		<when state="ʟ" output="ʎ"/>
+		<when state="ʢ" output="ʡ"/>
+		<when state="ˆ" output=""/>
+		<when state="ˈ" output="ˌ"/>
+		<when state="́" output="᷄"/>
+		<when state="̌" output="᷈"/>
+		<when state="̏" output="᷅"/>
+		<when state="β" output="ɓ"/>
+		<when state="θ" output="ʈ"/>
+	</terminators>
+</keyboard>
