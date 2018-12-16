@@ -2,7 +2,7 @@
 
 This keyboard layout is designed with Macs with Norwegian ISO layouts in mind, but any ISO keyboard should work. Please note that all documentation refers to the Norwegian keycaps (not that different from English).
 
-To start using this layout, simply make use of the option key and try your way ahead. The layout is designed with similarity and logic in mind. Similar symbols will be found under the same key. Keep pressing until you find what you want. For diacritics, other symbols, suprasegmentals and tones and word accents the layout is loosely based on [X-SAMPA](en.wikipedia.org/wiki/X-SAMPA).
+To start using this layout, simply make use of the option key and try your way ahead. The layout is designed with similarity and logic in mind. Similar symbols will be found under the same key. Keep pressing until you find what you want. For diacritics, other symbols, suprasegmentals and tones and word accents the layout is loosely based on [X-SAMPA](http://en.wikipedia.org/wiki/X-SAMPA).
 
 The IPA logo was created by Greg Newton and John Esling at the University of Victoria.  
 © International Phonetic Association - www.internationalphoneticassociation.org  
