@@ -111,11 +111,11 @@ high: <kbd>H</kbd>
 mid: <kbd>M</kbd>  
 low: <kbd>L</kbd>  
 extra low: <kbd>B</kbd>  
-extra high bar: <kbd>1</kbd>  
-high bar: <kbd>2</kbd>  
+extra high bar: <kbd>5</kbd>  
+high bar: <kbd>4</kbd>  
 mid bar: <kbd>3</kbd>  
-low bar: <kbd>4</kbd>  
-extra low bar: <kbd>5</kbd>  
+low bar: <kbd>2</kbd>  
+extra low bar: <kbd>1</kbd>  
 downstep: <kbd>@</kbd>  
 upstep: <kbd>¨</kbd>  
 rising: <kbd>R</kbd>  
